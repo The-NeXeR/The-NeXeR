@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm TheNeXeR
+# 👋 Hey there! I'm NeXeR
 
 I'm a **Python enthusiast** who loves building things! 🚀 I'm diving deep into:
 
