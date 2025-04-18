@@ -4,7 +4,7 @@ I'm a **Python enthusiast** who loves building things! 🚀 I'm diving deep into
 
 - 🐍 **Python** (because who doesn't love a good snake?)
 - 🤖 **Telegram Bots** (automating stuff is just cool, right?)
-- 🌐 **Web Development** with HTML, CSS, and JS (making the web a better place, one line at a time)
+- 🌐 **Mobile Dev** with Dart & Flutter because WHY NOT?
 
 ## What I’m working on 💻
 - Building bots that do more than just say "Hi" 🤖
