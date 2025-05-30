@@ -1,4 +1,4 @@
-# 🏆 NeXeR | Software Developer
+#  NeXeR | Software Developer
 
 ## 🎯 Expertise in C, Python, Dart & Flutter
 
