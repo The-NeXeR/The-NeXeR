@@ -4,7 +4,7 @@
 int main() {
     puts("The NeXeR");
     puts("C • Flutter • Dart");
-    puts("maybe building useful");
+    puts("maybe building something useful");
     return 0;
 }
 ```
