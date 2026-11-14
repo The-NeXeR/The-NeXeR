@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=140&section=header&text=The%20NeXeR&fontColor=ffffff&fontSize=44&fontAlignY=38" alt="The NeXeR banner" width="100%" />
 
-<a href="https://github.com/The-NeXeR">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Computer+Engineering+student;Low-level+tools+in+C;Cross-platform+apps+in+Flutter+%2F+Dart;Learning+systems+%26+socket+programming" alt="Typing animation" />
-</a>
-
 </div>
 
 ```c
