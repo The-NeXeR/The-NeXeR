@@ -35,7 +35,7 @@ int main(void) {
 }
 ```
 
-I write software for **Windows, Linux and Android** — low-level tools in C, cross-platform apps in Flutter/Dart. Right now I'm going deeper into **systems programming** and **network & socket programming**.
+I write software for **Windows, Linux and Android**, low-level tools in C, cross-platform apps in Flutter/Dart. Right now I'm going deeper into **systems programming** and **network & socket programming**.
 
 ## 🛠 tech stack
 
